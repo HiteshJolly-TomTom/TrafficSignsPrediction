@@ -1,0 +1,11 @@
+# Node.js
+/node_modules
+/traffic-sign-predictor/node_modules
+
+# Python
+__pycache__/
+*.pyc
+/backend/uploads
+
+# Other
+.DS_Store
